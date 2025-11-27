@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-     <h1 className='text-red-500 font-extrabold text-[50px] flex justify-center py-60 '>Wellcome to fyp</h1>
+     <div className='flex justify-center items-center h-screen'>
+     <h1 className='text-red-500 text-[50px] font-extrabold '>Wellcome to fyp</h1>
+     </div>
     </>
   )
 }
